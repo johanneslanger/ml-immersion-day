@@ -1,8 +1,8 @@
 # Workshop - Introduction to machine learning using Python on AWS
 
-In this workshop we will train our first machine learning model based on a sample use case using structured data. 
+In this workshop we will train a machine learning model based on a sample use case using structured data. This workshop is intended for novice machine learning practitioners with no prior ML experience!
 
-We will start with data preparation using Pandas and then train an XGBoost classification model on our notebook instance. Then we will learn how to start our first step to productionizing this model utilizing Amazon SageMaker Training jobs and endpoints.
+We will start with data preparation using Pandas and then train an XGBoost classification model on our notebook instance. Finally we will learn how to start our first step to productionizing this model utilizing Amazon SageMaker Training jobs and endpoints.
 
 ## Prerequisites:
 
