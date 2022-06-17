@@ -8,15 +8,14 @@ We will start with data preparation using Pandas and then train an XGBoost class
 
 The first part of this workshop requires a running Jupyter notebook environment, for Lab 3 you will require an AWS account and a JupyterLeb environment like SageMaker Studio.
 
-If you are at an AWS event follow [this link](https://dashboard.eventengine.run/login) and type in the vent hash to get access to an AWS account:
-Getting startet
+If you are at an AWS event follow [this link](https://dashboard.eventengine.run/login) and type in the event hash to get access to an AWS account:
 
 
 ## Getting started
 
 To get started clone the repositroy and open [01-Lab-Data-Prep-with-Pandas.ipynb](01-Lab-Data-Prep-with-Pandas.ipynb) in Jupyter.
 
-### Detailed instructions using SageMaker Studio:
+### Detailed getting started instructions using SageMaker Studio:
 
 1. Open [AWS console](https://console.aws.amazon.com/console/home)
 1. Type in SageMaker into the search box an dopen SageMaker
