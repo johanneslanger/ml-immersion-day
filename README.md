@@ -1,14 +1,14 @@
 # Workshop - Introduction to machine learning using Python on AWS
 
-In this workshop we will train a machine learning model based on a sample use case using structured data. This workshop is intended for novice machine learning practitioners with no prior ML experience!
+In this workshop you will train a machine learning model based on a sample use case using structured data. This workshop is intended for novice machine learning practitioners with no prior ML experience!
 
 We will start with data preparation using Pandas and then train an XGBoost classification model on our notebook instance. Finally we will learn how to start our first step to productionizing this model utilizing Amazon SageMaker Training jobs and endpoints.
 
 ## Prerequisites:
 
-The first part of this workshop requires a running Jupyter notebook environment, for Lab 3 you will require an AWS account and a JupyterLeb environment like SageMaker Studio.
+The first part of this workshop requires a running Jupyter notebook environment, for Lab 3 you will require an AWS account and a JupyterLab environment like SageMaker Studio.
 
-If you are at an AWS event follow [this link](https://dashboard.eventengine.run/login) and type in the event hash to get access to an AWS account:
+If you are at an AWS event, follow [this link](https://dashboard.eventengine.run/login) and type in the event hash to get access to an AWS account:
 
 
 ## Getting started
