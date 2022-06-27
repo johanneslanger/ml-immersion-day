@@ -18,16 +18,20 @@ To get started clone the repositroy and open [01-Lab-Data-Prep-with-Pandas.ipynb
 ### Detailed getting started instructions using SageMaker Studio:
 
 1. Open [AWS console](https://console.aws.amazon.com/console/home)
-1. Type in SageMaker into the search box an dopen SageMaker
-![doc/console.jpg](doc/console.jpg)
+1. Type in SageMaker into the search box and open SageMaker
+    ![doc/console.jpg](doc/console.jpg)
 1. Select Studio on the left
-![doc/left-nav.jpg](doc/left-nav.jpg)
+
+    ![doc/left-nav.jpg](doc/left-nav.jpg)
 1. Select Launch Studio
-![doc/launch-studio.jpg](doc/launch-studio.jpg)
+
+    ![doc/launch-studio.jpg](doc/launch-studio.jpg)
 1. Select Launch App --> Studio
-![doc/start-studio.jpg](doc/start-studio.jpg)
+
+    ![doc/start-studio.jpg](doc/start-studio.jpg)
 1. Open System Terminal 
-![doc/start-studio.jpg](doc/start-studio.jpg)
+
+    ![doc/start-studio.jpg](doc/system-terminal.jpg)
 1. Clone the repository 
 ```bash
 git clone https://github.com/johanneslanger/ml-immersion-day
