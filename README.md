@@ -13,7 +13,7 @@ If you are at an AWS event, follow [this link](https://dashboard.eventengine.run
 
 ## Getting started
 
-To get started clone the repositroy and open [01-Lab-Data-Prep-with-Pandas.ipynb](01-Lab-Data-Prep-with-Pandas.ipynb) in Jupyter.
+To get started clone the repository and open [01-Lab-Data-Prep-with-Pandas.ipynb](01-Lab-Data-Prep-with-Pandas.ipynb) in Jupyter.
 
 ### Detailed getting started instructions using SageMaker Studio:
 
