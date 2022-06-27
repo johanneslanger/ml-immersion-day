@@ -13,7 +13,7 @@ If you are at an AWS event, follow [this link](https://dashboard.eventengine.run
 
 ## Getting started
 
-To get started clone the repository and open [01-Lab-Data-Prep-with-Pandas.ipynb](01-Lab-Data-Prep-with-Pandas.ipynb) in Jupyter.
+To get started clone the repository and open [01-Lab-Data-Prep-with-Pandas.ipynb](01-Lab-Data-Prep-with-Pandas.ipynb) in Jupyter. Make sure you have the latest version of Pandas installed.
 
 ### Detailed getting started instructions using SageMaker Studio:
 
@@ -38,4 +38,6 @@ To get started clone the repository and open [01-Lab-Data-Prep-with-Pandas.ipynb
     ```
 1. Then open following notebook using the filebrowser on the left:
 `ml-immersion-day/01-Lab-Data-Prep-with-Pandas.ipynb`
-1. When asked to "Set up notebook environment" accept the default settings and hit `Select`:
+1. When asked to "Set up notebook environment" make sure to select `Data Science 2.0` image and hit `Select`:
+        ![doc/select-image.jpg](doc/select-image.jpg)
+        Note: loading the notebook and Kernel can take a couple of seconds.
