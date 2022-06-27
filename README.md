@@ -33,9 +33,9 @@ To get started clone the repository and open [01-Lab-Data-Prep-with-Pandas.ipynb
 
     ![doc/start-studio.jpg](doc/system-terminal.jpg)
 1. Clone the repository 
-```bash
-git clone https://github.com/johanneslanger/ml-immersion-day
-```
+    ```bash
+    git clone https://github.com/johanneslanger/ml-immersion-day
+    ```
 1. Then open following notebook using the filebrowser on the left:
 `ml-immersion-day/01-Lab-Data-Prep-with-Pandas.ipynb`
 1. When asked to "Set up notebook environment" accept the default settings and hit `Select`:
