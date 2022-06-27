@@ -2,7 +2,7 @@
 
 In this workshop you will train a machine learning model based on a sample use case using structured data. This workshop is intended for novice machine learning practitioners with no prior ML experience!
 
-We will start with data preparation using Pandas and then train an XGBoost classification model on our notebook instance. Finally we will learn how to start our first step to productionizing this model utilizing Amazon SageMaker Training jobs and endpoints.
+We will start with data preparation using Pandas and then train an XGBoost classification model on our notebook instance. Finally we will learn how to take our first step to productionizing this model utilizing Amazon SageMaker Training jobs and endpoints.
 
 ## Prerequisites:
 
